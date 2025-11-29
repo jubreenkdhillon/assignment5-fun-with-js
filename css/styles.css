@@ -1,0 +1,12 @@
+.box {
+    border: 2px solid black;
+    width: 300px;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+textarea {
+    width: 100%;
+    resize: none;
+    font-size: 16px;
+}
